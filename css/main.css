@@ -27,10 +27,10 @@ body {
   width: 100%;
 }
 
- figure {
-   margin: 0;
-   position: relative;
- }
+figure {
+ margin: 0;
+ position: relative;
+}
 
 figcaption {
   max-width: 15em;
@@ -40,6 +40,6 @@ figcaption {
   bottom: 0;
   left: 0;
   color: #fff;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, .5);
   border-radius: 6px;
 }
